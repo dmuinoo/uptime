@@ -12,7 +12,7 @@ sites:
   - name: Mi Web
     url: https://miweb.com
     assignees:
-      - dmuino
+      - dmuinoo
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
