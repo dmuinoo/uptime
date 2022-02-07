@@ -1,6 +1,6 @@
 # [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **🟥 Complete outage**
 
-This repository contains the open-source uptime monitor and status page for [Daniel Muino](https://demo.upptime.js.org), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [Diego Muino](https://demo.upptime.js.org), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/dmuino/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/dmuino/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/dmuino/upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/dmuino/upptime/actions?query=workflow%3A%22Response+Time+CI%22)
