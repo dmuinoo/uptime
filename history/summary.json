@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 83,
-    "timeWeek": 79,
-    "timeMonth": 78,
+    "timeDay": 92,
+    "timeWeek": 82,
+    "timeMonth": 80,
     "timeYear": 108,
     "dailyMinutesDown": {
       "2023-10-07": 15
@@ -31,13 +31,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 209,
-    "timeDay": 26,
-    "timeWeek": 212,
+    "timeDay": 174,
+    "timeWeek": 211,
     "timeMonth": 175,
-    "timeYear": 214,
-    "dailyMinutesDown": {
-      "2023-01-25": 18
-    }
+    "timeYear": 215,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hacker News",
@@ -51,9 +49,9 @@
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.91%",
     "time": 317,
-    "timeDay": 174,
-    "timeWeek": 222,
-    "timeMonth": 232,
+    "timeDay": 290,
+    "timeWeek": 241,
+    "timeMonth": 228,
     "timeYear": 319,
     "dailyMinutesDown": {
       "2024-01-10": 106,
