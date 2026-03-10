@@ -6,14 +6,14 @@
     "slug": "google",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.32%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 136,
-    "timeDay": 223,
-    "timeWeek": 140,
-    "timeMonth": 113,
+    "timeDay": 92,
+    "timeWeek": 139,
+    "timeMonth": 112,
     "timeYear": 142,
     "dailyMinutesDown": {
       "2026-03-08": 24,
@@ -36,9 +36,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 188,
-    "timeDay": 232,
-    "timeWeek": 166,
-    "timeMonth": 165,
+    "timeDay": 85,
+    "timeWeek": 150,
+    "timeMonth": 164,
     "timeYear": 185,
     "dailyMinutesDown": {
       "2025-12-03": 16
@@ -56,10 +56,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 307,
-    "timeDay": 384,
-    "timeWeek": 260,
-    "timeMonth": 302,
-    "timeYear": 306,
+    "timeDay": 102,
+    "timeWeek": 259,
+    "timeMonth": 301,
+    "timeYear": 305,
     "dailyMinutesDown": {
       "2025-05-09": 18
     }
